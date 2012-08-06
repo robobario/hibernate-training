@@ -1,0 +1,5 @@
+include '01-one-to-one'
+include '02-one-to-one-mapped-by'
+include '03-restriction-criteria'
+include '04-projection-criteria'
+include 'test-resources'
